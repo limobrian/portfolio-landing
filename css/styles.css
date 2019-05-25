@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/06/css-cheat-sheet.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#name{
+    float: right;
+}
+#bar{
+    margin-left: 50%
+}
+#img{
+    margin-left:780px;
+    margin-top:300px;
+}
+#name{
+    margin-right:900px;
+    margin-bottom:200px;
+    align-items: center;
+    float:top;
+}
+a:link{
+    color:black;
+}
