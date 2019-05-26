@@ -1,7 +1,8 @@
 body{
-    background-image: url('https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/06/css-cheat-sheet.jpg');
+   /** background-image: url('https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/06/css-cheat-sheet.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;**/
+    background-color: white;
 
 }
 #name{
@@ -11,15 +12,104 @@ body{
     margin-left: 50%
 }
 #img{
-    margin-left:780px;
+    margin-left:600px;
     margin-top:300px;
 }
 #name{
-    margin-right:900px;
-    margin-bottom:200px;
+    margin-right:600px;
+    margin-bottom:300px;
     align-items: center;
     float:top;
 }
 a:link{
     color:black;
+}
+.sect1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    
+}
+
+.sect2{
+    height: 40%;
+    width: 100%;
+    border: 2px solid greenyellow;
+    display:flex;
+}
+
+#me1{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+#me2{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+.sect3{
+    height: 40%;
+    width: 100%;
+    border: 2px solid greenyellow;
+    display:flex;
+    flex:row;
+}
+#ht{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+
+#cs{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+
+#js{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+    flex: right;
+}
+
+.sect4{
+    height: 20%;
+    width: 100%;
+    border: 2px solid greenyellow;
+    display: flex;
+    flex:row;
+}
+#con{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+
+#han{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
+}
+#cop{
+    border: 2px solid green;
+    width: 650px;
+    font-size: large;
+    padding: 50px;
+    margin-right: 20px;
 }
