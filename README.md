@@ -8,6 +8,11 @@ simple portfolio about myself
 * cd portfolio landing
 * Open index.html from a browser
 
+## author
+ limooh brian
+
+ ## link to live site on GitHub Pages
+https://limobrian.github.io/portfolio-landing/.
 ## Technologies Used
 HTML and CSS
 
