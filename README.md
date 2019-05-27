@@ -1,7 +1,7 @@
-#portfolio-landing
+##portfolio-landing
 
 ##This a simple portfolio about me
-## Setup/Installation Requirements
+
 
 ## Technologies Used
 ##i have used:
